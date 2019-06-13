@@ -1,7 +1,6 @@
 import React from 'react'
 import HoldConferenceVideo from './HoldConferenceVideo'
 import HoldConferenceNotes from './HoldConferenceNotes'
-import WebRtcDemo from './Webcall';
 
 class Detail extends React.Component {
   constructor(props) {
